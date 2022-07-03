@@ -1,4 +1,9 @@
 # Shoppingangular
+Screenshots:
+
+![image](https://user-images.githubusercontent.com/68404906/177040431-6edb4428-281d-476e-b03d-473cd1eee768.png)
+
+![image](https://user-images.githubusercontent.com/68404906/177040451-7f449fbf-3119-491f-81f4-7189811db3f0.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
